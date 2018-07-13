@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="no_record_found_msg">No record found</string>
+    <string name="facing_problem">"We are facing some problem."</string>
+    <string name="connection_not_found">Internet connection not found</string>
+    <string name="name">Name</string>
+    <string name="height">Height</string>
+    <string name="mass">Mass</string>
+    <string name="created">CreatedOn</string>
+</resources>
